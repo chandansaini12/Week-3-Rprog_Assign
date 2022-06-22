@@ -18,7 +18,6 @@ my_Matrix = makeCacheMatrix(matrix(1:4, 2, 2))
 my_Matrix$get()
 
 
-# a sample comment
 
 
 
